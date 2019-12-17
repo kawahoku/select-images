@@ -1,0 +1,76 @@
+{
+    "DEFAULT": {
+        "N_COL": 4,
+        "N_IMAGE_PER_PAGE": 50,
+        "FONTSIZE": 14,
+        "WINDOW_W": 1400,
+        "WINDOW_H": 800,
+        "POPUP_W": 1400,
+        "POPUP_H": 800,
+        "BLOCK_W": 280,
+        "BLOCK_H": 187,
+        "CANVAS_W": 1400,
+        "CANVAS_H": 3534,
+        "FORMAT": [
+            ".png",
+            ".PNG",
+            ".jpg",
+            ".JPG",
+            ".jpeg",
+            ".JPEG"
+        ]
+    },
+    "COLOR": {
+        "FILE_BG": "#009970",
+        "FILE_FG": "#eeffdd",
+        "GALLERY_BG": "#112233",
+        "GALLERY_FG": "#eeddff",
+        "BORDER_COLOR": "#ffffff",
+        "FRAME_BG": "#223344"
+    },
+    "ARGS": {
+        "LABEL_ARGS": {
+            "highlightbackground": "#ffffff",
+            "foreground": "#eeffdd",
+            "background": "#009970"
+        },
+        "ENTRY_ARGS": {
+            "foreground": "#eeffdd",
+            "background": "#009970",
+            "highlightbackground": "#ffffff",
+            "borderwidth": 0
+        },
+        "FILE_ARGS": {
+            "background": "#009970",
+            "padx": 200
+        },
+        "BUTTON_ARGS": {
+            "foreground": "#eeffdd",
+            "background": "#009970",
+            "highlightbackground": "#ffffff",
+            "borderwidth": 0
+        },
+        "GALLERY_ARGS": {
+            "background": "#112233",
+            "padx": 30
+        },
+        "CAPTION_ARGS": {
+            "background": "#112233",
+            "foreground": "#eeddff"
+        },
+        "MAINFRAME_ARGS": {
+            "background": "#223344"
+        },
+        "SUB_LABEL_ARGS": {
+            "highlightbackground": "#ffffff",
+            "background": "#112233",
+            "foreground": "#eeddff"
+        },
+        "SUB_ENTRY_ARGS": {
+            "background": "#112233",
+            "foreground": "#eeddff",
+            "highlightbackground": "#ffffff",
+            "borderwidth": 0
+        }
+    }
+}
