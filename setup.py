@@ -7,6 +7,7 @@ setup(
     author='kawasaki',
     author_email='kawahokuhoku@gmail.com',
     keywords='sample setuptools development',
+    url="https://github.com/kawahoku/select-images",
     data_files=["pyapp/config.json"],
     packages=[
         "pyapp",
