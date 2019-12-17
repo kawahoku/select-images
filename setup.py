@@ -8,7 +8,7 @@ setup(
     author_email='kawahokuhoku@gmail.com',
     keywords='sample setuptools development',
     url="https://github.com/kawahoku/select-images",
-    data_files=[("pyapp", ["pyapp/config.json"])],
+    data_files=[("SelectImagesGUI", ["SelectImagesGUI/config.json"])],
     packages=[
         "SelectImagesGUI",
     ],

@@ -2,6 +2,7 @@ echo""
 echo "test begin"
 echo""
 conda create -n test python=3.6
+source ~/.bashrc
 conda activate test
 echo""
 echo "\"test\" env activated"
