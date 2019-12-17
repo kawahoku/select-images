@@ -9,7 +9,7 @@ setup(
     keywords='sample setuptools development',
     data_files=["pyapp/config.json"],
     packages=[
-        "pyscript",
+        "pyapp",
     ],
     classifiers=[
         'Programming Language :: Python :: 3.6',
