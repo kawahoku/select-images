@@ -12,6 +12,7 @@ setup(
     packages=[
         "SelectImagesGUI",
     ],
+    install_requires=["numpy", "argparse", "pillow", "pillow-simd", "easydict", "tqdm"],
     classifiers=[
         'Programming Language :: Python :: 3.6',
     ],
