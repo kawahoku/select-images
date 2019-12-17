@@ -4,7 +4,7 @@ from tkinter import font
 from argparse import ArgumentParser
 
 from SelectImagesGUI.utils import config, WINDOW_SIZE
-from SelectImagesGUI.pyTkComponents import MainCanvas
+from SelectImagesGUI.TkComponents import MainCanvas
 
 
 def gui_demo(input_dir, output_dir):
