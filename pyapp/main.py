@@ -3,8 +3,8 @@ import tkinter as tk
 from tkinter import font
 from argparse import ArgumentParser
 
-from utils import config, WINDOW_SIZE
-from TkComponents import MainCanvas
+from SelectImagesGUI.utils import config, WINDOW_SIZE
+from SelectImagesGUI.pyTkComponents import MainCanvas
 
 
 def gui_demo(input_dir, output_dir):

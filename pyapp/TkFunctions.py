@@ -2,7 +2,7 @@ import os, shutil
 import tkinter as tk
 from PIL import Image
 
-from utils import IS_IMAGE, RESIZE, config
+from SelectImagesGUI.utils import IS_IMAGE, RESIZE, config
 
 def SaveSelectedImages(tkGallerys, input_dir, output_dir):
 

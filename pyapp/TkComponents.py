@@ -7,8 +7,8 @@ import shutil
 
 from tqdm import tqdm
 
-from utils import *
-from TkFunctions import *
+from SelectImagesGUI.utils import *
+from SelectImagesGUI.TkFunctions import *
 
 
 
